@@ -1,1 +1,1 @@
-# rsschool-cv
+https://nastyaagrbc.github.io/rsschool-cv/cv
