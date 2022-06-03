@@ -14,6 +14,7 @@ I have good interpersonal skills, am an excellent team worker and very willing t
 * Git/GitHub
 * JavaScript (Basic)
 ## **Code Example**
+
 ```
 function multiply(a, b){
  return a * b
