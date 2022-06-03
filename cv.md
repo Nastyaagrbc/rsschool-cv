@@ -8,6 +8,7 @@
 **Github:** [@Nastyaagrbc](https://github.com/Nastyaagrbc)
 ## **About Myself**
 I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
+I dream of becoming a developer thanks to RS School!
 ## **Skills**
 * HTML5, CSS3
 * Figma
